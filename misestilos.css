@@ -102,7 +102,7 @@ body{
 }
 
 
-.main{ 
+main{ 
     height: 2000px;
 }
 
@@ -118,8 +118,5 @@ body{
     display: flex;
     justify-content: center;
     text-align: center;
+    margin-top: 40%;
 }
-
-
-
-
